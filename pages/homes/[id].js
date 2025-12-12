@@ -1,5 +1,5 @@
 import { useRouter } from "next/router";
-import data from "../../db.json";
+import data from "../../public/db.json";
 
 function Home() {
   const route = useRouter();

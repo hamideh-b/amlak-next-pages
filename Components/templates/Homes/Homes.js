@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../../../db.json";
+import data from "../../../public/db.json";
 import Home from "@/Components/modules/Home/Home";
 
 function Homes() {
